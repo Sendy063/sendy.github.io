@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+    background-image: url(/assets/imgv/gambar1.webp);
+    padding: 20px;
+    border-radius: 10px;
+}
+.card {
+    background-image: url('/assets/imgv/png1.png');
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-bottom: 0;
+    padding: 9px;
+    box-shadow: 0 2px 18px -2px rgba(0, 0, 0, 0.5);
+    padding-top: 9px;
+    padding-bottom: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+.daf label,
+        .daf input[type="text"],
+        .daf input[type="number"],
+        .daf input[type="radio"] {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .daf label {
+            font-weight: bold;
+        }
+    
+.btn{
+    height: 35px;
+    display: block;
+    margin: auto;
+    color: #fff;
+    width: 30%;
+}
+.btn button {
+    width: 15vh;
+    padding: 2px;
+}
